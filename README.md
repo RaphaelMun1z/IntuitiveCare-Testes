@@ -17,8 +17,10 @@
 ##
    
 4. TESTE DE API
-- 4.1. Vue: https://github.com/RaphaelMun1z/Vue_Interface
-- 4.2. Python: https://github.com/RaphaelMun1z/Python_Server
+- 4.1.1 Vue: https://github.com/RaphaelMun1z/Vue_Interface
+- 4.1.2 Vercel: https://teste-vue-project.vercel.app
+- 4.2.1 Python: https://github.com/RaphaelMun1z/Python_Server
+- 4.2.2 Vercel: https://python-server-4ywiailju-raphael-munizs-projects.vercel.app/docs
 
 ##
 
